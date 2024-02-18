@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyAndroidApp</string>
+    <string name="welcome_to_android_development">Welcome to Android Development</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="submit">Submit</string>
+    <string name="view_offers">View Offers</string>
+</resources>
